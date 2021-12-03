@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jonathan-08
-- 👀 I’m interested in front-end developpement💻 and music🎹
+- 👀 I’m interested in web developpement💻 and music🎹🥁
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me: assijonathan2@gmail.com
